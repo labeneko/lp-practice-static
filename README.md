@@ -12,6 +12,14 @@ https://github.com/labeneko/lp-practice-static/projects/1
 
 http://rabeneko.shop
 
+# リリース手順
+
+プロジェクトディレクトリで以下のコマンドを実行してください
+
+```
+sh deploy.sh
+```
+
 # ssh接続
 
 ```
