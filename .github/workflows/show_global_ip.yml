@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: show global ip
-      - run: |
+        run: |
           curl https://inet-ip.info/
