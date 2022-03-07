@@ -6,4 +6,4 @@ jobs:
     steps:
       - name: show global ip
         run: |
-          curl https://inet-ip.info/
+          curl -sS https://inet-ip.info/
